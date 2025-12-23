@@ -32,5 +32,4 @@ jobs:
 
       - name: Push Docker image to Docker Hub
         run: |
-          docker push martinjolly008/devops-notes-app:latest
- 
+          docker push martinjolly008/devops-notes-app:latest 
